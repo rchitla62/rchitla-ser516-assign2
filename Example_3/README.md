@@ -34,7 +34,7 @@ Example_3/
 > **Important — Create Your Own Public Repo:**  
 > Do NOT commit directly to the class repo. You must create your own **public** GitHub repository and work from there. Jenkins needs to access your repo to trigger builds, so it must be **public**.
 
----
+--------git 
 
 ## Step 1 — Prerequisites
 
